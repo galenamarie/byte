@@ -2174,7 +2174,7 @@ span{img {
 
 		select option {
 			color: #ffffff;
-			background: #935d8c;
+			background: #00FF00;
 		}
 
 	input[type="checkbox"] + label,
@@ -2192,7 +2192,7 @@ span{img {
 	input[type="radio"]:checked + label:before {
 		background-color: #ffffff;
 		border-color: #ffffff;
-		color: #935d8c;
+		color: #00FF00;
 	}
 
 	input[type="checkbox"]:focus + label:before,
